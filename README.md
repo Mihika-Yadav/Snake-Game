@@ -16,6 +16,9 @@ A classic Snake Game built with Java and JavaFX.
  - Java Development Kit (JDK) 8 or higher.
  - JavaFX SDK (if not bundled with JDK).
 
+## Screenshot
+![Screenshot (145)](https://github.com/Mihika-Yadav/Snake-Game/assets/106601452/7e543202-bbc3-4f82-85b5-894e03f61cdc)
+
  ## Contributing
 
  Contributions are welcome! Please fork this repository and submit a pull request with your changes.
